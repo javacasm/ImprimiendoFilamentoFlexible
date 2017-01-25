@@ -16,7 +16,7 @@ Y aquí un ejemplo real
 
 Por todo esto hay que quitar la retracción e imprimir más despacio
 
-Esta es la configuración que estoy Usando
+Esta es la configuración que estoy usando (tomada a partir de la configuración de [filaflex para mi impresora Hephestos](http://recreus.com/en/filaflex-filaments/42black-filaflex-175mm.html))
 
 ![ConfiguracionCura.png](./images/ConfiguracionCura.png)
 
@@ -25,3 +25,11 @@ Y este es el resultado
 ![resultado](./images/RuedaImpresa.jpg)
 
 Un problema que me he encontrado es que al empezar una nueva impresión a veces el filamento no sale y hay que descargar y volver a cargarlo...
+
+Alguna gente usa [tensores para el filamento](http://www.thingiverse.com/thing:779011).
+
+![tensor](http://thingiverse-production-new.s3.amazonaws.com/renders/9d/53/ed/6d/f8/IMG_20150418_120343_preview_featured.jpg)
+
+En mi caso por la forma del portarollos no parece necesario
+
+![portarollos](./images/Portarollos.jpg)
