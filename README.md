@@ -10,12 +10,18 @@ El principal problema viene que a veces el filamento no sigue el camino que debi
 ![Atranques.png](./images/Atranques.png)
 (Imagen tomado de la guía de FFFworld)
 
+Y aquí un ejemplo real
+
+![Atranque.jpg](./images/Atranque.jpg)
+
 Por todo esto hay que quitar la retracción e imprimir más despacio
 
 Esta es la configuración que estoy Usando
 
 ![ConfiguracionCura.png](./images/ConfiguracionCura.png)
 
-Este es el resultado
+Y este es el resultado
 
 ![resultado](./images/RuedaImpresa.jpg)
+
+Un problema que me he encontrado es que al empezar una nueva impresión a veces el filamento no sale y hay que descargar y volver a cargarlo...
